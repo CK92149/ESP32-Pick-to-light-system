@@ -7,8 +7,6 @@ Recomended hardware; ESP32 TTGO (program should also work on other esp32 devices
 
 to do:
 
--add discord channel
-
 -add dependencies
 
 -add initial setup
