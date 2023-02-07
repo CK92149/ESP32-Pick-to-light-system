@@ -11,7 +11,7 @@ add (RGB) LED pins
 
 dependencies:
 
-Firt prepare the Google Sheet and connection as described here: https://github.com/mobizt/ESP-Google-Sheet-Client
+First prepare the Google Sheet and connection as described here: https://github.com/mobizt/ESP-Google-Sheet-Client
 
 Follow the quick start guide to install the ESP32 TTGO T-Display: https://github.com/Xinyuan-LilyGO/TTGO-T-Display
 
