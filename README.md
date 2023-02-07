@@ -7,6 +7,8 @@ Recomended hardware; ESP32 TTGO (program should also work on other esp32 devices
 
 dependencies:
 
+Install arduinio IDE: https://www.arduino.cc/en/software
+
 Copy the following data and formulas to a new sheet to test: https://docs.google.com/spreadsheets/d/1m71qk6SqQp7u8bPOYln_qpymAGtUYlZgMs0AhN84Ddc/
 
 Prepare the Google Sheet and connection as described here: https://github.com/mobizt/ESP-Google-Sheet-Client
