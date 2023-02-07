@@ -3,6 +3,9 @@ Open source pick to light system using esp32 and google sheets. Includes the abi
 
 to do:
 -add discord channel
+
 -add dependencies
+
 -add initial setup
+
 -add esp32 code
