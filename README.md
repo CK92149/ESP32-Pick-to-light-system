@@ -7,7 +7,9 @@ Recomended hardware; ESP32 TTGO (program should also work on other esp32 devices
 
 dependencies:
 
-First prepare the Google Sheet and connection as described here: https://github.com/mobizt/ESP-Google-Sheet-Client
+Copy the following data and formulas to a new sheet to test: https://docs.google.com/spreadsheets/d/1m71qk6SqQp7u8bPOYln_qpymAGtUYlZgMs0AhN84Ddc/
+
+Prepare the Google Sheet and connection as described here: https://github.com/mobizt/ESP-Google-Sheet-Client
 
 Follow the quick start guide to install the ESP32 TTGO T-Display: https://github.com/Xinyuan-LilyGO/TTGO-T-Display
 
@@ -16,8 +18,6 @@ Follow the quick start guide to install the ESP32 TTGO T-Display: https://github
 initial setup:
 
 make sure each device has the correct product name ("<ProductName>") as described on the google sheet.
-
-copy the following sheet to test the orders: https://docs.google.com/spreadsheets/d/1m71qk6SqQp7u8bPOYln_qpymAGtUYlZgMs0AhN84Ddc/
   
 
 How it works:
