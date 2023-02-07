@@ -18,6 +18,8 @@ Follow the quick start guide to install the ESP32 TTGO T-Display: https://github
 initial setup:
 
 make sure each device has the correct product name ("<ProductName>") as described on the google sheet.
+
+It is recomended to use 3 esp32 devices named; product_1, product_2 and product_3 for testing with the provided sheet example. 
   
 
 How it works:
